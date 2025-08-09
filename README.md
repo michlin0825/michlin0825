@@ -35,10 +35,4 @@
 - 👥 20 Followers | 133 Following
 - 🏆 Arctic Code Vault Contributor
 
----
 
-<div align="center">
-
-*"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."* – Robin Sharma
-
-</div>
