@@ -1,4 +1,4 @@
-# Hi there, I'm Michael Lin 👋
+# Michael Lin | Solutions Architect & Cloud Developer 🚀
 
 <div align="center">
 
