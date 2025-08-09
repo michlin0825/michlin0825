@@ -1,13 +1,5 @@
 # Michael Lin
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=michlin0825&color=blue&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michaeltwlin/)
-[![GitHub followers](https://img.shields.io/github/followers/michlin0825?label=Follow&style=flat-square&logo=github)](https://github.com/michlin0825)
-
-</div>
-
 ## 🚀 Solutions Architect | Cloud Developer | AI/ML Enthusiast
 
 > Building scalable cloud solutions and exploring the frontiers of AI/ML 🌟
