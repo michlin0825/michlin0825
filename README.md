@@ -1,4 +1,4 @@
-# Michael Lin | Solutions Architect & Cloud Developer
+# Michael Lin
 
 <div align="center">
 
