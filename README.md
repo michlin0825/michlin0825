@@ -36,21 +36,17 @@
 | [📊 Data Pipeline](https://github.com/michlin0825/DEND-Project-5-Data-Pipeline) | Automated ETL pipeline with Airflow | Python, Apache Airflow |
 | [🤖 ML Device Failures](https://github.com/michlin0825/MLND-Project-Capstone-Predicting-Device-Failures) | Ensemble models for predictive maintenance | Python, Machine Learning |
 
-### 📊 Activity Overview
+## 📊 Activity Overview
 
-```text
-📦 119 Repositories
+📦 119 Repositories  
 ⭐ 3 Stars Given  
-👥 20 Followers | 133 Following
+👥 20 Followers | 133 Following  
 🏆 Arctic Code Vault Contributor
-```
 
 ---
 
 <div align="center">
 
 *"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."* – Robin Sharma
-
-**Thanks for visiting my profile!** 
 
 </div>
