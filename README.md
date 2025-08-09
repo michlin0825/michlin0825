@@ -1,6 +1,6 @@
 # Michael Lin
 
-## 🚀 Solutions Architect | Cloud Developer | AI/ML Enthusiast
+## 🚀 Solutions Architect | Cloud Developer | AI/ML Practitioner
 
 > Building scalable cloud solutions and exploring the frontiers of AI/ML 🌟
 
