@@ -18,14 +18,6 @@
 - **🔧 Full-Stack Development**: End-to-end application development
 - **📊 Data Engineering**: ETL pipelines and data warehousing
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michlin0825&show_icons=true&theme=radical&hide_border=true)
-
-</div>
-
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -36,12 +28,12 @@
 | [📊 Data Pipeline](https://github.com/michlin0825/DEND-Project-5-Data-Pipeline) | Automated ETL pipeline with Airflow | Python, Apache Airflow |
 | [🤖 ML Device Failures](https://github.com/michlin0825/MLND-Project-Capstone-Predicting-Device-Failures) | Ensemble models for predictive maintenance | Python, Machine Learning |
 
-## 📊 Activity Overview
+### 📊 Activity Overview
 
-📦 119 Repositories  
-⭐ 3 Stars Given  
-👥 20 Followers | 133 Following  
-🏆 Arctic Code Vault Contributor
+- 📦 119 Repositories
+- ⭐ 3 Stars Given  
+- 👥 20 Followers | 133 Following
+- 🏆 Arctic Code Vault Contributor
 
 ---
 
