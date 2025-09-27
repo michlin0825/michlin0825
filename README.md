@@ -28,23 +28,6 @@
 
 <br>
 
-### 🧪 Testing Excellence
-
-**Servlet Unit Test Coverage Achievement:**
-- **98% Instruction Coverage** - Exceeding 100% target requirement
-- **98% Branch Coverage** - Comprehensive path testing
-- **45 Unit Tests** - Zero failures across all servlet implementations
-- **Mock-based Architecture** - Isolated testing with Mockito framework
-
-**Test Coverage Breakdown:**
-- AdminServlet: 5 tests (dashboard, books, customers, add book)
-- AuthServlet: 8 tests (login/logout, registration, authentication)
-- CartServlet: 7 tests (cart operations, session management)
-- FileUploadServlet: 9 tests (file upload scenarios, error handling)
-- Edge Cases: 16 additional tests (unknown paths, exceptions, boundaries)
-
-<br>
-
 ### 📊 Activity Overview
 
 - 📦 120 Repositories
