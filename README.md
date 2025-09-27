@@ -33,6 +33,5 @@
 - 📦 120 Repositories
 - ⭐ 3 Stars Given  
 - 👥 20 Followers | 133 Following
-- 🏆 Arctic Code Vault Contributor
 
 
