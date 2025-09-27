@@ -25,7 +25,6 @@
 | [☸️ Microservices](https://github.com/michlin0825/CDND-Udagram-Review) | Kubernetes deployment with CI/CD on AWS | TypeScript, Kubernetes, AWS |
 | [📊 Data Pipeline](https://github.com/michlin0825/DEND-Project-5-Data-Pipeline) | Automated ETL pipeline with Airflow | Python, Apache Airflow |
 | [🤖 ML Device Failures](https://github.com/michlin0825/MLND-Project-Capstone-Predicting-Device-Failures) | Ensemble models for predictive maintenance | Python, Machine Learning |
-| [🧪 Servlet Testing](https://github.com/michlin0825/servlet-unit-tests) | Comprehensive unit testing for Java servlets | Java, JUnit 5, Mockito, JaCoCo |
 
 <br>
 
