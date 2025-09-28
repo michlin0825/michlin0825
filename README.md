@@ -25,7 +25,7 @@
 | [🍿 Snack Voting App](https://github.com/michlin0825/SnackVotingApp_Cognito_2025-07-27) | Serverless voting app with Cognito authentication | C#, AWS Lambda, Cognito, Bedrock Canvas |
 | [☸️ Microservices](https://github.com/michlin0825/CDND-Udagram-Review) | Kubernetes deployment with CI/CD on AWS | TypeScript, Node.js, AWS EKS, Docker, Travis CI, NGINX |
 | [📊 Data Pipeline](https://github.com/michlin0825/DEND-Project-5-Data-Pipeline) | Automated ETL pipeline with Airflow | Python, Apache Airflow, AWS Redshift, S3 |
-| [🤖 ML Device Failures](https://github.com/michlin0825/MLND-Project-Capstone-Predicting-Device-Failures) | Ensemble models for predictive maintenance | Python, Scikit-learn, XGBoost, LightGBM |
+| [🤖 Predictive Maintenance Modeling](https://github.com/michlin0825/MLND-Project-Capstone-Predicting-Device-Failures) | Ensemble models for predictive maintenance | Python, Scikit-learn, XGBoost, LightGBM |
 
 <br>
 
