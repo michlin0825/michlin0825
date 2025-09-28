@@ -20,7 +20,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [🤖 Bedrock AgentCore App](https://github.com/michlin0825/strands-agentcore-app-20250917) | Secure AI chat with Cognito auth, real-time web search & knowledge base | Python, Streamlit, AWS Bedrock, Cognito, Strands SDK |
-| [🤖 OpenAI Agentic App](https://github.com/michlin0825/openai-agent-app-20250929) | RAG-first AI agent with ChromaDB & web search | Python, OpenAI, Chainlit, ChromaDB |
+| [🤖 OpenAI Agentic App](https://github.com/michlin0825/openai-agent-app-20250929) | RAG-first AI agent with ChromaDB & web search | Python, OpenAI, Chainlit, ChromaDB, GuardRails |
 | [🎯 .NET Todo App](https://github.com/michlin0825/TodoListApp_Lambda_Public) | Serverless todo app with .NET Lambda & DynamoDB | C#, AWS Lambda, DynamoDB, CDK L3, CI/CD Pipeline |
 | [☕ Java Todo App](https://github.com/michlin0825/TodoListApp-Java-SpringBoot) | Full-stack todo application with Spring Boot backend | Java, Spring Boot, Thymeleaf, Maven, SQLite, Bootstrap |
 | [🎮 2048 Game](https://github.com/michlin0825/2048-game-20250804) | Interactive browser-based 2048 puzzle game with modern UI | JavaScript, HTML5, CSS3, Game Development |
