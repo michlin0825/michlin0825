@@ -19,6 +19,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [🤖 AI Agent with Bedrock AgentCore](https://github.com/michlin0825/strands-agentcore-app-20250917) | Secure AI chat with Cognito auth, real-time web search & knowledge base | Python, Streamlit, AWS Bedrock, Cognito, Strands SDK |
 | [🤖 OpenAI Agent App](https://github.com/michlin0825/openai-agent-app-20250929) | RAG-first AI agent with ChromaDB & web search | Python, OpenAI, Chainlit, ChromaDB |
 | [🎯 Todo App](https://github.com/michlin0825/TodoListApp_Lambda_Public) | Serverless todo app with .NET Lambda & DynamoDB | C#, AWS Lambda, DynamoDB |
 | [🍿 Snack Voting App](https://github.com/michlin0825/SnackVotingApp_Cognito_2025-07-27) | Serverless voting app with Cognito authentication | C#, AWS Lambda, Cognito |
@@ -33,5 +34,3 @@
 - 📦 120 Repositories
 - ⭐ 3 Stars Given  
 - 👥 20 Followers | 133 Following
-
-
